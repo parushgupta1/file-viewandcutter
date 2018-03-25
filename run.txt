@@ -1,0 +1,13 @@
+The source files are View.java and Cutter.java enclosed in package called Assingment.
+
+To compile:
+
+javac Assignment/View.java
+
+To run:
+
+java Assignment.View
+
+To generate documentation:
+
+javadoc -d doc Assignment
